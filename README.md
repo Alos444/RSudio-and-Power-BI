@@ -22,9 +22,11 @@ Methods such as IQR criterion by using boxplot.stats()$out and function which() 
 This set of statistics describes where data values occur, their central tendency, variability, and the
 general shape of their distribution. 
 
-Univariate , bivariate  and multivariate analysis.
+Univariate (bar charts, histogram) , bivariate (scatter plots) and multivariate analysis for multiple variables.
 
 ### 3. Data Visualization on Power BI
+
+Creating dashboards by using Rscripts with different packages(ggplot, reshape2, dplyr, ggthemes, ggridge, plotly, rgl etc) and collections of functions for bar chart and density plot.
 
 
 https://app.powerbi.com/links/PtZ6SXLsJ3?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare
