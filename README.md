@@ -1,5 +1,7 @@
 # RSudio-and-Power-BI
 
+![Power BI](Movies.PNG)
+
 ## Purpose
 
 Performing cleaning and Statistical Analysis of "Hollywood's Most Profitable Stories" dataset with R and Data Visualisation on Power BI.
