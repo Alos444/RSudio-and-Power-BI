@@ -27,3 +27,7 @@ Univariate , bivariate  and multivariate analysis.
 ### 3. Data Visualization on Power BI
 
 
+
+https://app.powerbi.com/links/PtZ6SXLsJ3?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare
+
+
